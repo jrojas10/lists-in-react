@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/lists-in-react/static/css/main.a617e044.chunk.css",
+    "main.js": "/lists-in-react/static/js/main.da4cede3.chunk.js",
+    "main.js.map": "/lists-in-react/static/js/main.da4cede3.chunk.js.map",
+    "runtime-main.js": "/lists-in-react/static/js/runtime-main.bdd5109a.js",
+    "runtime-main.js.map": "/lists-in-react/static/js/runtime-main.bdd5109a.js.map",
+    "static/css/2.818011ed.chunk.css": "/lists-in-react/static/css/2.818011ed.chunk.css",
+    "static/js/2.8675c0e0.chunk.js": "/lists-in-react/static/js/2.8675c0e0.chunk.js",
+    "static/js/2.8675c0e0.chunk.js.map": "/lists-in-react/static/js/2.8675c0e0.chunk.js.map",
+    "index.html": "/lists-in-react/index.html",
+    "static/css/2.818011ed.chunk.css.map": "/lists-in-react/static/css/2.818011ed.chunk.css.map",
+    "static/css/main.a617e044.chunk.css.map": "/lists-in-react/static/css/main.a617e044.chunk.css.map",
+    "static/js/2.8675c0e0.chunk.js.LICENSE.txt": "/lists-in-react/static/js/2.8675c0e0.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.bdd5109a.js",
+    "static/css/2.818011ed.chunk.css",
+    "static/js/2.8675c0e0.chunk.js",
+    "static/css/main.a617e044.chunk.css",
+    "static/js/main.da4cede3.chunk.js"
+  ]
+}
